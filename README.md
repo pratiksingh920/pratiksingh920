@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js & DSA
 - 💞️ I’m looking to collaborate on Web Development based Projects
-- 📫 Just send an e-mail 
+- 📫 Just mail me @pratiksingh920@gmail.com
 
 <!---
 pratiksingh920/pratiksingh920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
